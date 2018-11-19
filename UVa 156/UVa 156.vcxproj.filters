@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Andy%27s First Dictionary.cpp">
+    <ClCompile Include="Ananagrams.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
